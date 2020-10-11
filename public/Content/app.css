@@ -1,1 +1,11 @@
 /* custom css goes here*/
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url(/Assets/images/background.png);
+   
+
+}
